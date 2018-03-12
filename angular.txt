@@ -24,6 +24,10 @@ import { NewCmpComponent } from './new-cmp/new-cmp.component';
       BrowserModule
       /added new componet from branch
       //Added ne component from subbranch
+
+//Added fron local sub branch 
+//Added fron local sub branch 
+//Added fron local sub branch 
       
    ],
    Added new componet from subbranch
