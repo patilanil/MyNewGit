@@ -7,7 +7,10 @@ import { NewCmpComponent } from './new-cmp/new-cmp.component';
 @NgModule({
    declarations: [
       AppComponent,
-      NewCmpComponent // here it is added in declarations and will behave as a child component
+      NewCmpComponent,
+      Added new component from github SubBranch and committed to 
+      master from git.
+      
    ],
    imports: [
       BrowserModule
