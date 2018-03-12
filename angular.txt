@@ -3,20 +3,26 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 import { NewCmpComponent } from './new-cmp/new-cmp.component';
 // includes the new-cmp component we created
-
+/added new componet from branch
+      //Added ne component from subbranch
+      
 @NgModule({
    declarations: [
       AppComponent,
-      
+      //added new componet from branch
       //Added ne component from subbranch
-      
-      NewCmpComponent,
+      /added new componet from branch
+      //Added ne component from subbranch
+     NewCmpComponent,
       Added new component from github SubBranch and committed to 
       master from git.
       
    ],
    imports: [
       BrowserModule
+      /added new componet from branch
+      //Added ne component from subbranch
+      
    ],
    Added new componet from subbranch
    
