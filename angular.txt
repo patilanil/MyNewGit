@@ -10,7 +10,7 @@ import { NewCmpComponent } from './new-cmp/new-cmp.component';
       NewCmpComponent,
       Added new component from github SubBranch and committed to 
       master from git.
-      
+      //Added new component from master
       //Added neww commponent from master
       
    ],
@@ -24,3 +24,4 @@ import { NewCmpComponent } from './new-cmp/new-cmp.component';
 //Added new compenent from master
 
 export class AppModule { }
+//added new component from master
