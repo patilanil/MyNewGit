@@ -7,6 +7,9 @@ import { NewCmpComponent } from './new-cmp/new-cmp.component';
 @NgModule({
    declarations: [
       AppComponent,
+      
+      //Added ne component from subbranch
+      
       NewCmpComponent,
       Added new component from github SubBranch and committed to 
       master from git.
@@ -15,6 +18,8 @@ import { NewCmpComponent } from './new-cmp/new-cmp.component';
    imports: [
       BrowserModule
    ],
+   Added new componet from subbranch
+   
    providers: [],
    bootstrap: [AppComponent] //for bootstrap the AppComponent the main app component is given.
 })
