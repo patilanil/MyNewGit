@@ -11,6 +11,8 @@ import { NewCmpComponent } from './new-cmp/new-cmp.component';
       Added new component from github SubBranch and committed to 
       master from git.
       
+      //Added neww commponent from master
+      
    ],
    imports: [
       BrowserModule
@@ -18,5 +20,7 @@ import { NewCmpComponent } from './new-cmp/new-cmp.component';
    providers: [],
    bootstrap: [AppComponent] //for bootstrap the AppComponent the main app component is given.
 })
+
+//Added new compenent from master
 
 export class AppModule { }
